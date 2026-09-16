@@ -1,6 +1,6 @@
 # OCREDS: Optimal Co-location of Renewable Energy and Data Centers in Caribbean SIDS | IEEE CaribCon 2026
 
-Code, results and manuscript for *"Optimal Co-location of Data Centers and Renewable Energy Systems in Caribbean SIDS: A PyPSA Framework with Multi-Criteria Siting Analysis."*
+Code, results and manuscript for *"Optimal Co-location of Data Centers and Renewable Energy Systems in Caribbean SIDS"*
 
 PyPSA capacity-expansion LP (2,190 h, Q1) for two cases:
 - **Case A – Trinidad & Tobago**: single bus, 1,800 MW gas fleet, Brechin Castle 92 MWac PV, 5 MW DC at Point Lisas.
