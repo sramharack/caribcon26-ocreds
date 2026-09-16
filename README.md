@@ -1,4 +1,4 @@
-# OCREDS — Optimal Co-location of Renewable Energy and Data Centers in Caribbean SIDS | IEEE CaribCon 2026
+# OCREDS: Optimal Co-location of Renewable Energy and Data Centers in Caribbean SIDS | IEEE CaribCon 2026
 
 Code, results and manuscript for *"Optimal Co-location of Data Centers and Renewable Energy Systems in Caribbean SIDS: A PyPSA Framework with Multi-Criteria Siting Analysis."*
 
