@@ -46,5 +46,4 @@ For Trinidad, solar enters (300 MW, RE 7.5%) at gas ≥ $70/MWh, CO₂ ≥ $50/t
 ## Known limitations
 Synthetic AR(1) profiles; Q1-only horizon; daily-average workload flexibility; illustrative hurricane parameters (see `docs/dro_parameters.md`); expert-scored siting prototype (`docs/siting_rubric.md`). Full discussion is in Section VII of the paper.
 
-## License
-Code: MIT (see LICENSE). Manuscript text © the authors.
+
