@@ -1,0 +1,5 @@
+pypsa>=1.3,<2
+highspy
+numpy
+pandas
+matplotlib
